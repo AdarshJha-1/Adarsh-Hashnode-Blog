@@ -34,9 +34,9 @@ For performing these tasks, ensure that you have Kubernetes/minikube installed o
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696741632737/199a8e2c-5d0a-46fd-965d-7f89efd84fb3.png align="center")
 
-## **Task-1: Create a Sample Todo-App Deployment with "Auto-healing" and "Auto-Scaling" Features**
+## **Task-1: Create a Sample Deployment with "Auto-healing" and "Auto-Scaling" Features**
 
-Your mission is to create a Deployment file that deploys a sample todo-app on your Kubernetes cluster using the "Auto-healing" and "Auto-Scaling" features.
+Your mission is to create a Deployment file that deploys a sample nginx on your Kubernetes cluster using the "Auto-healing" and "Auto-Scaling" features.
 
 ### **Steps to Accomplish the Task:**
 
